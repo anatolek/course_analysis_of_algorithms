@@ -1,1 +1,3 @@
-# course_analysis_of_algorithms
+# Course development and analysis of algorithms
+
+[URL to course](https://edx.prometheus.org.ua/courses/KPI/Algorithms101/2015_Spring/about)
